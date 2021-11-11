@@ -43,7 +43,7 @@
               "version": "0.10.0-arduino7"
             },
             {
-              "packager": "arduino",
+              "packager": "adafruit",
               "name": "CMSIS",
               "version": "5.4.0"
             },
