@@ -61,6 +61,13 @@
           "version": "1.2.2",
           "systems": [
             {
+              "host": "i686-mingw32",
+              "url": "https://github.com/FedericoAndrades/MCR-FERMI/raw/main/CMSIS-Atmel-1.2.2.zip",
+              "archiveFileName": "CMSIS-Atmel-1.2.2.zip",
+              "checksum": "SHA-256:83C2EED88BE333BC7E498FFF5B95F694DC6EFD0813ABCABE62056433C305ED38",
+              "size": "2511228"
+            },
+            {
               "host": "all",
               "url": "https://github.com/FedericoAndrades/MCR-FERMI/raw/main/CMSIS-Atmel-1.2.2.zip",
               "archiveFileName": "CMSIS-Atmel-1.2.2.zip",
